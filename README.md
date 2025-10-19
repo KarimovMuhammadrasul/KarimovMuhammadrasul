@@ -2,11 +2,11 @@
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
-  <br />
     <div align="center">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Muhammadrasul+FerPS+'26" alt="Typing SVG" /></a>
     </div>
 </div>
+
 
 <div align="center">
   <div align="center">
@@ -81,9 +81,10 @@
 </pre>
 
 <div align="center">
-
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
+<br/>
+<br/>
 
 
 
