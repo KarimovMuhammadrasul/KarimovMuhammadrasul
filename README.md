@@ -1,34 +1,27 @@
-<h1 align="center">👋 Hey there, I'm Muhammadrasul Karimov</h1>
-<h3 align="center">💻 Student | Developer | Competitor | Creator</h3>
+muhammadrasul@bilimli ──────────────────────────────────────────────────────  
+OS: ...................... Windows 11, occasional Linux (WSL)  
+Age: ..................... 17 years  
+Host: .................... Intel i7-12700H, Iris Xe Graphics  
+Kernel: .................. Arduino / C++ Environment  
+IDE: ..................... VS Code, Arduino IDE  
 
----
+Languages.Programming: ... C++, Python, JavaScript  
+Languages.Web: ........... HTML, CSS, TailwindCSS  
+Concepts: ................ AI/ML, Data Structures, Web Dev, Robotics  
 
-### 🧠 About Me
+Projects: ................ RFID Money System, Web Games, School Website  
+Achievements: ............ 🥇 1st Place — Eurasian Fibonacci Robot Olympiad  
+.......................... 🥇 2× 1st — Regional Informatics Olympiad  
+.......................... 🥇 1st — Zakovat Game, ⚽ Football Champion  
 
-I'm a **high school student from Uzbekistan** passionate about **Artificial Intelligence, Software Engineering, and Robotics**.  
-I love **solving complex problems**, **building smart systems**, and **sharing knowledge** with others.
+Email: ................... muhammadrasul0723ferps@gmail.com  
+Location: ................ Fergana, Uzbekistan  
 
-- 🎓 Self-taught in **C++**, **Arduino**, and **Web Development**  
-- 🤖 Experienced in **RFID-based systems** and **embedded hardware**  
-- 💡 Interested in **AI**, **Machine Learning**, and **competitive programming**  
-- ⚽ Outside of tech, I’m a **football defender** and a **YouTube creator** (5k+ subscribers)
+GitHub: .................. github.com/muhammadrasul0723  
+YouTube: ................. 5K+ Subscribers (Football Channel)  
 
----
-
-### 🏆 Achievements
-
-🏅 **Eurasian Fibonacci Robot Olympiad** — 🥇 1st place, 🥈 2× 2nd places  
-🏅 **Regional Informatics Olympiad** — 🥇 2× 1st places, 🥈 1× 2nd place  
-🧩 **Regional “Zakovat” Intellectual Game** — 🥇 1st place  
-💰 **$500+ in programming contests** (Codeforces, AtCoder, etc.)  
-⚽ **1st place** in interregional football tournament  
-📚 **Taught Olympiad Informatics** to younger students  
-
----
-
-### 🧩 Tech Stack
-
-```cpp
-Languages:   C++ | Python | JavaScript  
-Frameworks:  Arduino | HTML | CSS | TailwindCSS  
-Concepts:    AI/ML | Data Structures & Algorithms | Web Dev | Robotics
+Repos: ................... 45  
+Stars: ................... 320+  
+Followers: ............... 190+  
+Lines of Code: ........... 523,000+  
+────────────────────────────────────────────────────────────────────────────
