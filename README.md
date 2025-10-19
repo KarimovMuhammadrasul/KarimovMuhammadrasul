@@ -7,6 +7,7 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Muhammadrasul+FerPS+'26" alt="Typing SVG" /></a>
     </div>
 </div>
+
 <div align="center">
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -78,7 +79,6 @@
     │ • Football Defender         │ Compiler: GCC O3             │ • Informatics Teaching Platf. │
     └─────────────────────────────┴──────────────────────────────┴───────────────────────────────┘
   </pre>
-</div>
 
 <div align="center">
 
