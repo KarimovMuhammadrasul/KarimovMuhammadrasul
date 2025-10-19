@@ -15,9 +15,8 @@
     <strong>Contact me</strong>
     <br /><br /><br />
 
-    <p>
       <img alt="Globe" height="80" src="https://i.ibb.co/8g0txKdn/globe.png">
-    </p>
+   
   </a>
 </td>
 </tr>
