@@ -54,15 +54,32 @@
 </div>
 
 <br />
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+<div align="center" style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  background-color: #d3d3d3;
+  padding: 10px 0;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  font-family: 'Courier New', monospace;
+  font-size: 13px;
+  color: #000;
+">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" 
-       alt="Site created with Notepad" height="30" />
+       alt="Site created with Notepad" height="35" />
+  <span><b>Site coded in Notepad</b></span>
+
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" 
-       alt="Microsoft Internet Explorer" height="30" />
+       alt="Microsoft Internet Explorer" height="35" />
+  <span><b>Best viewed in Internet Explorer</b></span>
+
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" 
-       alt="No Frames" height="30" />
+       alt="No Frames" height="35" />
+  <span><b>No Frames, No CSS, Pure HTML</b></span>
 </div>
+
 
 
 
