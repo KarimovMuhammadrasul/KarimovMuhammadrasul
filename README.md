@@ -86,29 +86,20 @@
 </div>
 
 
-
-
 <div align="center">
-  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-</div>
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
-<!-- Retro Footer -->
-<table align="center" cellspacing="10" style="background-color:#d3d3d3; border-top:2px solid #000; border-bottom:2px solid #000; font-family:'Courier New', monospace; color:#000;">
-  <tr align="center">
-    <td>
-      <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" height="25" alt="Site created with Notepad" /><br>
-      <p style="font-size: 5px">Site coded in Notepad</p>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" height="25" alt="Internet Explorer" /><br>
-      <b>Best viewed in Internet Explorer</b>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" height="25" alt="No Frames" /><br>
-      <b>No Frames, No CSS, Pure HTML</b>
-    </td>
-  </tr>
-</table> 
 
+![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+
+</div>
 
