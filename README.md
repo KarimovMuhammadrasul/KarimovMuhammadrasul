@@ -43,7 +43,7 @@
 │ • Football Defender         │ Compiler: GCC O3             │ • Informatics Teaching Platf. │
 └─────────────────────────────┴──────────────────────────────┴───────────────────────────────┘
 </pre>
-
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
@@ -86,7 +86,7 @@
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
 </div>
-
+###
 
 
 
