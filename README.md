@@ -19,49 +19,32 @@
 </td>
 </tr>
 </table>
+<pre style="font-family:'Courier New', monospace; background:#0a0a0a; color:#00ff66; padding:15px; border:2px solid #00ff66; border-radius:10px;">
+┌───────────────────────────────────────────────────────────────────────────────┐
+│                         M U H A M M A D R A S U L   K A R I M O V            │
+│───────────────────────────────────────────────────────────────────────────────│
+│                              SYSTEM INFORMATION                              │
+│───────────────────────────────────────────────────────────────────────────────│
+│ OS: Windows 11 + WSL Linux                                                   │
+│ CPU: Intel Core i7-12700H                                                    │
+│ GPU: Intel Iris Xe Graphics                                                  │
+│ Editor: Visual Studio Code                                                   │
+│ Compiler: g++ -O3                                                            │
+└───────────────────────────────────────────────────────────────────────────────┘
 
-<table align="center">
-  <tr>
-    <!-- Achievements -->
-    <td width="33%" valign="top">
-      <h3 align="center">🏆 Achievements</h3>
-      <ul>
-        <li>🥇 1st — Eurasian Fibonacci Robot Olympiad</li>
-        <li>🥈 2× 2nd — Fibonacci Robot Olympiad</li>
-        <li>🥇 2× 1st — Regional Informatics Olympiad</li>
-        <li>🥈 1× 2nd — Regional Informatics Olympiad</li>
-        <li>🥇 1st — Zakovat Intellectual Game</li>
-        <li>⚽ 1st — Regional Football Tournament (Defender)</li>
-        <li>💰 $500+ — Programming Contest Winnings</li>
-      </ul>
-    </td>
+┌──────────────┬──────────────────────────────┬────────────────────────────────┐
+│  🏆 ACHIEVEMENTS  │        💡 SKILLS             │          🚀 PROJECTS          │
+├──────────────┼──────────────────────────────┼────────────────────────────────┤
+│ • 1st — Eurasian Fibonacci  │ Languages: C++, Python, JS   │ • RFID Money System (on card) │
+│ • 2× 2nd — Fibonacci Olymp. │ Web: HTML, CSS, Tailwind     │ • Arduino Smart Hardware      │
+│ • 2× 1st — Reg. Olympiad    │ Concepts: AI/ML, DSA, Robo.  │ • School Website (first one)  │
+│ • 1× 2nd — Reg. Olympiad    │ Frameworks: Arduino, VSCode  │ • Web Games (JS + Canvas)     │
+│ • 1st — Zakovat Champion    │ Tools: Git, Linux (WSL)      │ • Crypto & Memecoin Analyzer  │
+│ • Football 🥇 Defender      │ Compiler: GCC O3, FAST I/O   │ • Informatics Teaching Platf. │
+└──────────────┴──────────────────────────────┴────────────────────────────────┘
 
-    <!-- Skills -->
-    <td width="33%" valign="top">
-      <h3 align="center">💡 Skills</h3>
-      <ul>
-        <li><strong>Languages:</strong> C++, Python, JavaScript</li>
-        <li><strong>Web:</strong> HTML, CSS, TailwindCSS</li>
-        <li><strong>Concepts:</strong> AI/ML, DSA, Web Dev, Robotics</li>
-        <li><strong>Frameworks:</strong> Arduino, VS Code</li>
-        <li><strong>Tools:</strong> Git, Linux (WSL), Fast I/O, GCC O3</li>
-      </ul>
-    </td>
+> "Precision. Performance. Passion — in both code and cars."
 
-    <!-- Projects -->
-    <td width="33%" valign="top">
-      <h3 align="center">🚀 Projects</h3>
-      <ul>
-        <li>💳 RFID Money System (Balance on Card)</li>
-        <li>🧠 Arduino-based Smart Hardware</li>
-        <li>🌐 School Website (first in region)</li>
-        <li>🎮 Web Games using JS + Canvas</li>
-        <li>🪙 Crypto & Memecoin Analyzer</li>
-        <li>📚 Teaching Platform for Informatics</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 
 
