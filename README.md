@@ -21,7 +21,7 @@
 
 <p>
 
-<img alt="Globe" height="80" src="https://ibb.co/8g0txKdn">
+<img alt="Globe" height="80" href="https://ibb.co/8g0txKdn">
 </a>
 </p>
 
