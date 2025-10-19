@@ -44,6 +44,15 @@
 └─────────────────────────────┴──────────────────────────────┴───────────────────────────────┘
 
 
+<!-- Retro Contact Section -->
+<table align="center" cellspacing="10" style="background-color:#e0e0e0; border:2px solid #000; font-family:'Courier New', monospace; font-size:14px; color:#000; padding:10px; margin-top:15px;">
+  <tr align="center">
+    <td>💬 <b>Telegram:</b> <a href="https://t.me/kari_move" style="text-decoration:none; color:#000;">@kari_move</a></td>
+    <td>📧 <b>Gmail:</b> <a href="mailto:muhammadrasul0723ferps@gmail.com" style="text-decoration:none; color:#000;">muhammadrasul0723ferps@gmail.com</a></td>
+    <td>▶️ <b>YouTube:</b> <a href="https://www.youtube.com/@heyfootballshorts" style="text-decoration:none; color:#000;">@heyfootballshorts</a></td>
+    <td>💻 <b>Codeforces:</b> <a href="https://codeforces.com/profile/karimov" style="text-decoration:none; color:#000;">karimov</a></td>
+  </tr>
+</table>
 
 
 
@@ -71,3 +80,7 @@
     </td>
   </tr>
 </table>
+
+
+
+
