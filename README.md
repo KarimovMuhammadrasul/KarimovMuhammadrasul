@@ -42,6 +42,7 @@
 │ • 1st — Zakovat Champion    │ Tools: Git, Linux (WSL)      │ • Crypto & Memecoin Analyzer  │
 │ • Football Defender         │ Compiler: GCC O3             │ • Informatics Teaching Platf. │
 └─────────────────────────────┴──────────────────────────────┴───────────────────────────────┘
+</pre>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
