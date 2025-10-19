@@ -7,25 +7,22 @@
   <br />
   <br />
 
-</div>
-
 <!-- Social -->
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://t.me/kari_move">
-<strong>Contact me</strong>
-<br />
-<br />
-<br />
+  <a href="https://t.me/kari_move">
+    <strong>Contact me</strong>
+    <br /><br /><br />
 
-<p>
-
-<img alt="Globe" height="80" href="https://ibb.co/8g0txKdn">
-</a>
-</p>
-
+    <p>
+      <img alt="Globe" height="80" src="https://i.ibb.co/8g0txKdn/globe.png">
+    </p>
+  </a>
 </td>
+</tr>
+</table>
+
 
 
 <td align="center">
