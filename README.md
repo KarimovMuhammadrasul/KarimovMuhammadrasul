@@ -14,9 +14,7 @@
   <a href="https://t.me/kari_move">
     <strong>Contact me</strong>
     <br /><br /><br />
-
-      <img alt="Globe" height="80" src="https://i.ibb.co/8g0txKdn/globe.png">
-   
+      <img alt="Globe" height="80" src="https://i.ibb.co/8g0txKdn/globe.png">   
   </a>
 </td>
 </tr>
