@@ -20,6 +20,62 @@
 </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <!-- Achievements -->
+    <td width="33%" valign="top">
+      <h3 align="center">🏆 Achievements</h3>
+      <ul>
+        <li>🥇 1st — Eurasian Fibonacci Robot Olympiad</li>
+        <li>🥈 2× 2nd — Fibonacci Robot Olympiad</li>
+        <li>🥇 2× 1st — Regional Informatics Olympiad</li>
+        <li>🥈 1× 2nd — Regional Informatics Olympiad</li>
+        <li>🥇 1st — Zakovat Intellectual Game</li>
+        <li>⚽ 1st — Regional Football Tournament (Defender)</li>
+        <li>💰 $500+ — Programming Contest Winnings</li>
+      </ul>
+    </td>
+
+    <!-- Skills -->
+    <td width="33%" valign="top">
+      <h3 align="center">💡 Skills</h3>
+      <ul>
+        <li><strong>Languages:</strong> C++, Python, JavaScript</li>
+        <li><strong>Web:</strong> HTML, CSS, TailwindCSS</li>
+        <li><strong>Concepts:</strong> AI/ML, DSA, Web Dev, Robotics</li>
+        <li><strong>Frameworks:</strong> Arduino, VS Code</li>
+        <li><strong>Tools:</strong> Git, Linux (WSL), Fast I/O, GCC O3</li>
+      </ul>
+    </td>
+
+    <!-- Projects -->
+    <td width="33%" valign="top">
+      <h3 align="center">🚀 Projects</h3>
+      <ul>
+        <li>💳 RFID Money System (Balance on Card)</li>
+        <li>🧠 Arduino-based Smart Hardware</li>
+        <li>🌐 School Website (first in region)</li>
+        <li>🎮 Web Games using JS + Canvas</li>
+        <li>🪙 Crypto & Memecoin Analyzer</li>
+        <li>📚 Teaching Platform for Informatics</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- Guestbook -->
 | Name | Date | Message |
