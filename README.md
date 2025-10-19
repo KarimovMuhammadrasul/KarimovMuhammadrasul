@@ -3,7 +3,9 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Muhammadrasul" alt="Typing SVG" /></a>
+    <div align="center">
+       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Muhammadrasul" alt="Typing SVG" /></a>
+    </div>
   <br />
   <br />
 </div>
