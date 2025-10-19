@@ -43,33 +43,30 @@
 │ • Football Defender         │ Compiler: GCC O3             │ • Informatics Teaching Platf. │
 └─────────────────────────────┴──────────────────────────────┴───────────────────────────────┘
 <!-- Social -->
-<table width="100%" align="center">
-  <tr align="center">
-    <td>
-      <a href="https://t.me/kari_move" style="text-decoration: none;">
-        <img alt="Telegram" height="35" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" style="border: none;">
+<table width="100%" align="center" style="border-collapse: collapse; border: none;">
+  <tr align="center" style="border: none;">
+    <td style="border: none; padding: 10px;">
+      <a href="https://t.me/kari_move" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="35" style="border: none; outline: none;">
       </a>
     </td>
-    <td>
-      <a href="mailto:muhammadrasul0723ferps@gmail.com" style="text-decoration: none;">
-        <img alt="Gmail" height="35" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" style="border: none;">
+    <td style="border: none; padding: 10px;">
+      <a href="mailto:muhammadrasul0723ferps@gmail.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="35" style="border: none; outline: none;">
       </a>
     </td>
-    <td>
-      <a href="https://www.youtube.com/@heyfootballshorts" style="text-decoration: none;">
-        <img alt="YouTube" height="35" src="https://www.citypng.com/public/uploads/preview/red-youtube-logo-symbol-701751694792489qxkccchok1.png" style="border: none;">
+    <td style="border: none; padding: 10px;">
+      <a href="https://www.youtube.com/@heyfootballshorts" target="_blank">
+        <img src="https://www.citypng.com/public/uploads/preview/red-youtube-logo-symbol-701751694792489qxkccchok1.png" alt="YouTube" height="35" style="border: none; outline: none;">
       </a>
     </td>
-    <td>
-      <a href="https://codeforces.com/profile/karimov" style="text-decoration: none;">
-        <img alt="Codeforces" height="35" src="https://sta.codeforces.com/s/59506/images/codeforces-logo-with-telegram.png" style="border: none;">
+    <td style="border: none; padding: 10px;">
+      <a href="https://codeforces.com/profile/karimov" target="_blank">
+        <img src="https://sta.codeforces.com/s/59506/images/codeforces-logo-with-telegram.png" alt="Codeforces" height="35" style="border: none; outline: none;">
       </a>
     </td>
   </tr>
 </table>
-
-
-
 
 
 
