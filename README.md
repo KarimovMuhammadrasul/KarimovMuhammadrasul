@@ -9,7 +9,6 @@
   <br />
   <br />
 </div>
-
 <div align="center">
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -56,7 +55,8 @@
     </a>
   </div>
   
-  
+  <br/>
+  <br/>
   
   
   <pre style="font-family:'Courier New', monospace; background:#0a0a0a; color:#00ff66; padding:15px; border:2px solid #00ff66; border-radius:10px;">
@@ -70,8 +70,7 @@
   │ GPU: Intel Iris Xe Graphics                                                                │
   │ Editor: Visual Studio Code                                                                 │
   │ Compiler: g++ -O3                                                                          │
-  └────────────────────────────────────────────────────────────────────────────────────────────┘
-  
+  └────────────────────────────────────────────────────────────────────────────────────────────┘  
   ┌─────────────────────────────┬──────────────────────────────┬───────────────────────────────┐
   │         ACHIEVMENTS         |            SKILLS            |            PROJECTS           |
   ├─────────────────────────────┼──────────────────────────────┼───────────────────────────────|
@@ -84,7 +83,8 @@
   └─────────────────────────────┴──────────────────────────────┴───────────────────────────────┘
   </pre>
 </div>
-
+<br/>
+<br/>
 
 <div align="center">
 
