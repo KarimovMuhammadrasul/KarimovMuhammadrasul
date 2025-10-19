@@ -46,28 +46,28 @@
 <table width="100%" align="center">
   <tr align="center">
     <td>
-      <a href="https://t.me/kari_move">
+      <a href="https://t.me/kari_move" style="text-decoration: none; color: inherit;">
         <img alt="Telegram" height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"><br/>
         <strong>Telegram</strong><br/>
         @kari_move
       </a>
     </td>
     <td>
-      <a href="mailto:muhammadrasul0723ferps@gmail.com">
+      <a href="mailto:muhammadrasul0723ferps@gmail.com" style="text-decoration: none; color: inherit;">
         <img alt="Gmail" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"><br/>
         <strong>Gmail</strong><br/>
         muhammadrasul0723ferps@gmail.com
       </a>
     </td>
     <td>
-      <a href="https://www.youtube.com/@heyfootballshorts">
+      <a href="https://www.youtube.com/@heyfootballshorts" style="text-decoration: none; color: inherit;">
         <img alt="YouTube" height="30" src="https://www.citypng.com/public/uploads/preview/red-youtube-logo-symbol-701751694792489qxkccchok1.png"><br/>
         <strong>YouTube</strong><br/>
         @heyfootballshorts
       </a>
     </td>
     <td>
-      <a href="https://codeforces.com/profile/karimov">
+      <a href="https://codeforces.com/profile/karimov" style="text-decoration: none; color: inherit;">
         <img alt="Codeforces" height="30" src="https://sta.codeforces.com/s/59506/images/codeforces-logo-with-telegram.png"><br/>
         <strong>Codeforces</strong><br/>
         karimov
@@ -75,6 +75,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
