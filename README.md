@@ -94,7 +94,7 @@
 
 <br />
 <!-- Retro Footer -->
-<table align="center" cellspacing="10" style="background-color:#d3d3d3; border-top:2px solid #000; border-bottom:2px solid #000; font-family:'Courier New', monospace; font-size:50px; color:#000; padding:10px;">
+<table align="center" cellspacing="10" style="background-color:#d3d3d3; border-top:2px solid #000; border-bottom:2px solid #000; font-family:'Courier New', monospace; color:#000;">
   <tr align="center">
     <td>
       <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" height="25" alt="Site created with Notepad" /><br>
