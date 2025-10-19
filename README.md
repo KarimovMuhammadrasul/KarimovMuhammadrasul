@@ -97,19 +97,20 @@
 <table align="center" cellspacing="10" style="background-color:#d3d3d3; border-top:2px solid #000; border-bottom:2px solid #000; font-family:'Courier New', monospace; color:#000; font-size:10px; text-align:center;">
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" height="25" alt="Site created with Notepad" /><br>
+      <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" height="22" alt="Site created with Notepad" /><br>
       Site coded in Notepad
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" height="25" alt="Internet Explorer" /><br>
+      <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" height="22" alt="Internet Explorer" /><br>
       Best viewed in Internet Explorer
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" height="25" alt="No Frames" /><br>
+      <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" height="22" alt="No Frames" /><br>
       No Frames, No CSS, Pure HTML
     </td>
   </tr>
 </table>
+
 
 
 
