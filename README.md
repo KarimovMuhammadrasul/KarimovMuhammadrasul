@@ -56,29 +56,29 @@
   
   
   
-  <pre style="font-family:'Courier New', monospace; background:#0a0a0a; color:#00ff66; padding:15px; border:2px solid #00ff66; border-radius:10px;">
-    ┌────────────────────────────────────────────────────────────────────────────────────────────┐
-    │                         M U H A M M A D R A S U L   K A R I M O V                          │
-    │────────────────────────────────────────────────────────────────────────────────────────────│
-    │                                    SYSTEM INFORMATION                                      │
-    │────────────────────────────────────────────────────────────────────────────────────────────│
-    │ OS: Windows 11 + WSL Linux                                                                 │
-    │ CPU: Intel Core i7-12700H                                                                  │
-    │ GPU: Intel Iris Xe Graphics                                                                │
-    │ Editor: Visual Studio Code                                                                 │
-    │ Compiler: g++ -O3                                                                          │
-    └────────────────────────────────────────────────────────────────────────────────────────────┘  
-    ┌─────────────────────────────┬──────────────────────────────┬───────────────────────────────┐
-    │         ACHIEVMENTS         |            SKILLS            |            PROJECTS           |
-    ├─────────────────────────────┼──────────────────────────────┼───────────────────────────────|
-    │ • 1st — Eurasian Fibonacci  │ Languages: C++, Python, JS   │ • RFID Money System (on card) │
-    │ • 2× 2nd — Fibonacci Olymp. │ Web: HTML, CSS               │ • Arduino Smart Hardware      │
-    │ • 2× 1st — Reg. Olympiad    │ Concepts: AI/ML, DSA, Robo.  │ • School Website (first one)  │
-    │ • 1× 2nd — Reg. Olympiad    │ Frameworks: Arduino, VSCode  │ • Web Games (JS + Canvas)     │
-    │ • 1st — Zakovat Champion    │ Tools: Git, Linux (WSL)      │ • Crypto & Memecoin Analyzer  │
-    │ • Football Defender         │ Compiler: GCC O3             │ • Informatics Teaching Platf. │
-    └─────────────────────────────┴──────────────────────────────┴───────────────────────────────┘
-  </pre>
+<pre style="font-family:'Courier New', monospace; background:#0a0a0a; color:#00ff66; padding:15px; border:2px solid #00ff66; border-radius:10px;">
+┌────────────────────────────────────────────────────────────────────────────────────────────┐
+│                         M U H A M M A D R A S U L   K A R I M O V                          │
+│────────────────────────────────────────────────────────────────────────────────────────────│
+│                                    SYSTEM INFORMATION                                      │
+│────────────────────────────────────────────────────────────────────────────────────────────│
+│ OS: Windows 11 + WSL Linux                                                                 │
+│ CPU: Intel Core i7-12700H                                                                  │
+│ GPU: Intel Iris Xe Graphics                                                                │
+│ Editor: Visual Studio Code                                                                 │
+│ Compiler: g++ -O3                                                                          │
+  └────────────────────────────────────────────────────────────────────────────────────────────┘  
+┌─────────────────────────────┬──────────────────────────────┬───────────────────────────────┐
+│         ACHIEVMENTS         |            SKILLS            |            PROJECTS           |
+├─────────────────────────────┼──────────────────────────────┼───────────────────────────────|
+│ • 1st — Eurasian Fibonacci  │ Languages: C++, Python, JS   │ • RFID Money System (on card) │
+│ • 2× 2nd — Fibonacci Olymp. │ Web: HTML, CSS               │ • Arduino Smart Hardware      │
+│ • 2× 1st — Reg. Olympiad    │ Concepts: AI/ML, DSA, Robo.  │ • School Website (first one)  │
+│ • 1× 2nd — Reg. Olympiad    │ Frameworks: Arduino, VSCode  │ • Web Games (JS + Canvas)     │
+│ • 1st — Zakovat Champion    │ Tools: Git, Linux (WSL)      │ • Crypto & Memecoin Analyzer  │
+│ • Football Defender         │ Compiler: GCC O3             │ • Informatics Teaching Platf. │
+└─────────────────────────────┴──────────────────────────────┴───────────────────────────────┘
+</pre>
 
 <div align="center">
 
