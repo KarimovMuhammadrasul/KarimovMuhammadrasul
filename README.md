@@ -98,7 +98,7 @@
   <tr align="center">
     <td>
       <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" height="25" alt="Site created with Notepad" /><br>
-      Site coded in Notepad
+      <p style="font-size: 5px">Site coded in Notepad</p>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" height="25" alt="Internet Explorer" /><br>
