@@ -48,28 +48,28 @@
   <tr align="center">
     <td>
       <a href="https://t.me/kari_move">
-        <img alt="Telegram" height="70" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"><br/>
+        <img alt="Telegram" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"><br/>
         <strong>Telegram</strong><br/>
         @kari_move
       </a>
     </td>
     <td>
       <a href="mailto:muhammadrasul0723ferps@gmail.com">
-        <img alt="Gmail" height="70" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"><br/>
+        <img alt="Gmail" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"><br/>
         <strong>Gmail</strong><br/>
         muhammadrasul0723ferps@gmail.com
       </a>
     </td>
     <td>
       <a href="https://www.youtube.com/@heyfootballshorts">
-        <img alt="YouTube" height="70" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_2024.svg"><br/>
+        <img alt="YouTube" height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_2024.svg"><br/>
         <strong>YouTube</strong><br/>
         @heyfootballshorts
       </a>
     </td>
     <td>
       <a href="https://codeforces.com/profile/karimov">
-        <img alt="Codeforces" height="70" src="https://sta.codeforces.com/s/59506/images/codeforces-logo-with-telegram.png"><br/>
+        <img alt="Codeforces" height="50" src="https://sta.codeforces.com/s/59506/images/codeforces-logo-with-telegram.png"><br/>
         <strong>Codeforces</strong><br/>
         karimov
       </a>
