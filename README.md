@@ -21,11 +21,6 @@
 </table>
 
 
-
-<div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
-</div>
-
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
