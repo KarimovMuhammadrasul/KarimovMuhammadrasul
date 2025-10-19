@@ -43,14 +43,37 @@
 │ • Football Defender         │ Compiler: GCC O3             │ • Informatics Teaching Platf. │
 └─────────────────────────────┴──────────────────────────────┴───────────────────────────────┘
 
-
-<!-- Retro Contact Section -->
-<table align="center" cellspacing="10" style="background-color:#e0e0e0; border:2px solid #000; font-family:'Courier New', monospace; font-size:14px; color:#000; padding:10px; margin-top:15px;">
+<!-- Social -->
+<table width="100%" align="center">
   <tr align="center">
-    <td>💬<b>Telegram:</b> <a href="https://t.me/kari_move" style="text-decoration:none; color:#000;">@kari_move</a></td>
-    <td>📧<b>Gmail:</b> <a href="mailto:muhammadrasul0723ferps@gmail.com" style="text-decoration:none; color:#000;">muhammadrasul0723ferps@gmail.com</a></td>
-    <td>▶️<b>YouTube:</b> <a href="https://www.youtube.com/@heyfootballshorts" style="text-decoration:none; color:#000;">@heyfootballshorts</a></td>
-    <td>💻<b>Codeforces:</b> <a href="https://codeforces.com/profile/karimov" style="text-decoration:none; color:#000;">karimov</a></td>
+    <td>
+      <a href="https://t.me/kari_move">
+        <img alt="Telegram" height="70" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"><br/>
+        <strong>Telegram</strong><br/>
+        @kari_move
+      </a>
+    </td>
+    <td>
+      <a href="mailto:muhammadrasul0723ferps@gmail.com">
+        <img alt="Gmail" height="70" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"><br/>
+        <strong>Gmail</strong><br/>
+        muhammadrasul0723ferps@gmail.com
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/@heyfootballshorts">
+        <img alt="YouTube" height="70" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_2024.svg"><br/>
+        <strong>YouTube</strong><br/>
+        @heyfootballshorts
+      </a>
+    </td>
+    <td>
+      <a href="https://codeforces.com/profile/karimov">
+        <img alt="Codeforces" height="70" src="https://sta.codeforces.com/s/59506/images/codeforces-logo-with-telegram.png"><br/>
+        <strong>Codeforces</strong><br/>
+        karimov
+      </a>
+    </td>
   </tr>
 </table>
 
