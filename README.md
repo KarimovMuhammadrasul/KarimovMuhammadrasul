@@ -90,11 +90,19 @@
 </pre>
 
 <div align="center">
-  <h2> ⚡ PRODUCTION_ENV // PROJECTS </h2>
-
   <table width="95%" style="border-collapse: separate; border-spacing: 12px;">
     <tr>
-      <td width="50%" bgcolor="#f5f5f0" style="border: 1px solid #d1d1ca; border-radius: 12px; padding: 25px; text-align: left;">
+      <td width="50%" style="background-color: #fff4e6; border: 1px solid #ffe8cc; border-radius: 12px; padding: 25px; text-align: left;">
+          <h3 style="margin-top: 0;">
+            <a href="https://github.com/KarimovMuhammadrasul/SelectToAskAI" style="color: #1a1a1a; text-decoration: none;">🔍 SelectToAskAI</a>
+          </h3>
+          <p style="color: #444; font-size: 14px; line-height: 1.5;">Privacy-first Chrome extension for visual querying. Powered by local LLaVA models with Apple-inspired minimalist UI.</p>
+          <div style="margin-top: 10px;">
+            <a href="https://github.com/KarimovMuhammadrasul/SelectToAskAI"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
+            <a href="https://github.com/KarimovMuhammadrasul/SelectToAskAI"><img src="https://img.shields.io/badge/Ollama-Local_AI-white?style=flat-square" /></a>
+          </div>
+      </td>
+      <td width="50%" style="background-color: #fff4e6; border: 1px solid #ffe8cc; border-radius: 12px; padding: 25px; text-align: left;">
           <h3 style="margin-top: 0;">
             <a href="https://github.com/KarimovMuhammadrasul/EcoLens" style="color: #1a1a1a; text-decoration: none;">📸 EcoLens</a>
           </h3>
@@ -104,48 +112,50 @@
             <a href="https://github.com/KarimovMuhammadrasul/EcoLens"><img src="https://img.shields.io/badge/Visit_Repo-000000?style=flat-square&logo=github&logoColor=white" /></a>
           </div>
       </td>
-      <td width="50%" bgcolor="#f5f5f0" style="border: 1px solid #d1d1ca; border-radius: 12px; padding: 25px; text-align: left;">
+    </tr>
+    <tr>
+      <td width="50%" style="background-color: #f2fcf5; border: 1px solid #e1f2e8; border-radius: 12px; padding: 25px; text-align: left;">
           <h3 style="margin-top: 0;">
             <a href="https://github.com/KarimovMuhammadrasul/Paint" style="color: #1a1a1a; text-decoration: none;">🎨 Paint</a>
           </h3>
           <p style="color: #444; font-size: 14px; line-height: 1.5;">High-performance drawing app built with C++. Features custom brush engines and smooth canvas manipulation.</p>
           <div style="margin-top: 10px;">
             <a href="https://github.com/KarimovMuhammadrasul/Paint"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>
-            <a href="https://github.com/KarimovMuhammadrasul/Paint"><img src="https://img.shields.io/badge/Visit_Repo-000000?style=flat-square&logo=github&logoColor=white" /></a>
           </div>
       </td>
-    </tr>
-    <tr>
-      <td width="50%" bgcolor="#f5f5f0" style="border: 1px solid #d1d1ca; border-radius: 12px; padding: 25px; text-align: left;">
+      <td width="50%" style="background-color: #f2fcf5; border: 1px solid #e1f2e8; border-radius: 12px; padding: 25px; text-align: left;">
           <h3 style="margin-top: 0;">
             <a href="https://github.com/KarimovMuhammadrasul/FindTheNumber" style="color: #1a1a1a; text-decoration: none;">🔢 FindTheNumber</a>
           </h3>
           <p style="color: #444; font-size: 14px; line-height: 1.5;">Algorithmic logic game. Test your numerical intuition against optimized search patterns and high scores.</p>
           <div style="margin-top: 10px;">
             <a href="https://github.com/KarimovMuhammadrasul/FindTheNumber"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
-            <a href="https://github.com/KarimovMuhammadrasul/FindTheNumber"><img src="https://img.shields.io/badge/Visit_Repo-000000?style=flat-square&logo=github&logoColor=white" /></a>
           </div>
       </td>
-      <td width="50%" bgcolor="#f5f5f0" style="border: 1px solid #d1d1ca; border-radius: 12px; padding: 25px; text-align: left;">
+    </tr>
+    <tr>
+      <td width="50%" style="background-color: #f2fcf5; border: 1px solid #e1f2e8; border-radius: 12px; padding: 25px; text-align: left;">
           <h3 style="margin-top: 0;">
             <a href="https://github.com/KarimovMuhammadrasul/DiceGame" style="color: #1a1a1a; text-decoration: none;">🎲 DiceGame</a>
           </h3>
           <p style="color: #444; font-size: 14px; line-height: 1.5;">Multiplayer logic game focused on risk management. First to reach the target score without rolling a 1 wins.</p>
           <div style="margin-top: 10px;">
             <a href="https://github.com/KarimovMuhammadrasul/DiceGame"><img src="https://img.shields.io/badge/Logic-E10098?style=flat-square" /></a>
-            <a href="https://github.com/KarimovMuhammadrasul/DiceGame"><img src="https://img.shields.io/badge/Visit_Repo-000000?style=flat-square&logo=github&logoColor=white" /></a>
           </div>
       </td>
+      <td width="50%" style="padding: 25px;">
+        </td>
     </tr>
   </table>
 </div>
 
 <br />
 
-<pre style="font-family:'Courier New', monospace; background:#0a0a0a; color:#00ff66; padding:15px; border:2px solid #00ff66; border-radius:10px;">
+<pre style="font-family:'Courier New', monospace; background:#0a0a0a; color:#00ff66; padding:15px; border:2px solid #00ff66; border-radius:10px; line-height: 1.4;">
 user@terminal:~/projects$ ls -la
-total 4
-drwxr-xr-x  1 karimov  staff   96 Mar 16 <a href="https://github.com/KarimovMuhammadrasul/EcoLens" style="color:#00ff66; text-decoration:none;"><b>. [EdgeAI] EcoLens</b></a>
+total 5
+drwxr-xr-x  1 karimov  staff   96 May 12 <a href="https://github.com/KarimovMuhammadrasul/SelectToAskAI" style="color:#ffcc00; text-decoration:none;"><b>. [Extnsn] SelectToAskAI</b></a>
+drwxr-xr-x  1 karimov  staff   96 Mar 16 <a href="https://github.com/KarimovMuhammadrasul/EcoLens" style="color:#ffcc00; text-decoration:none;"><b>. [EdgeAI] EcoLens</b></a>
 drwxr-xr-x  1 karimov  staff   96 Mar 16 <a href="https://github.com/KarimovMuhammadrasul/Paint" style="color:#00ff66; text-decoration:none;"><b>. [C++App] Paint</b></a>
 drwxr-xr-x  1 karimov  staff   96 Mar 16 <a href="https://github.com/KarimovMuhammadrasul/FindTheNumber" style="color:#00ff66; text-decoration:none;"><b>. [JSGame] FindTheNumber</b></a>
 drwxr-xr-x  1 karimov  staff   96 Mar 16 <a href="https://github.com/KarimovMuhammadrasul/DiceGame" style="color:#00ff66; text-decoration:none;"><b>. [Logic ] DiceGame</b></a>
